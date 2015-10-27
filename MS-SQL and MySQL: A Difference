@@ -1,0 +1,10 @@
+MS SQL:
+
+INSERT INTO tablename VALUES (1,'Alpha');
+INSERT INTO tablename VALUES (2,'Bravo');
+INSERT INTO tablename VALUES (3,'Charlie');
+
+MY SQL:
+
+INSERT INTO tablename
+VALUES (1,'Alpha') , (2,'Bravo') , (3,'Charlie');
